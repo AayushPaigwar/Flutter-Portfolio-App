@@ -20,7 +20,7 @@
 
 ```
  PS: Please wait for 2-3 min if the GitHub Repos returns a exception and then try again.
- And code organization will be updated soon
+ And code organizing will be updated soon
 ```
 
 ----
