@@ -1,16 +1,53 @@
-# github_api
+# Dart Flutter Chowk Task - 2
 
-A new Flutter project.
+## Details:
 
+**Name:** Aayush Paigwar
+
+**College:** GHRCE
+
+**Year:** 3th
+
+## Project Details:
+
+**Description:** : I have developed my portfolio application. 
+
+**🧑🏻‍💻 Tech Stack:** Flutter
+
+**Figma Link:** [Figma UI Link](https://www.figma.com/file/z3rLydQFYwtdhW1oGi4hN9/Flutter-Dart-Bootcamp?type=design&node-id=10%3A2&mode=design&t=M6JynnAmhXlixRZr-1)
+
+**GitHub Repo Link:** [Project Repo](https://github.com/AayushPaigwar/Task-2-Dart-Flutter-Chowk-)
+
+``` PS: Please wait for 2-3 min if the GitHub Repos returns a exception and then try again.```
+
+----
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow the steps below to clone, install dependencies, and run the Flutter app:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository
+```bash 
+git clone https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Change directory to the project folder
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+cd your-repo
+```
+4. Install dependencies
+```bash
+flutter pub get
+```
+5. Run the app
+```bash
+flutter run
+```
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Aayush Paigwar](https://github.com/AayushPaigwar)
+
+</div>
