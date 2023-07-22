@@ -219,6 +219,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   endIndent: 10,
                 ),
 
+                //Socials code here to bee added soon...
+
                 const Divider(
                   color: Colors.black12,
                   thickness: 1,
