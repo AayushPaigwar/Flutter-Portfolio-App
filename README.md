@@ -1,3 +1,4 @@
+It was a task for Dart Flutter Chowk organized by @FlutterNagpur. In Which I was selected as the winner🥳
 # Dart Flutter Chowk Task - 2
 
 ## Details:
@@ -10,7 +11,7 @@
 
 ## Project Details:
 
-**Description:** : I have developed my portfolio application. 
+**Description:**: I have developed my portfolio application. 
 
 **🧑🏻‍💻 Tech Stack:** Flutter
 
@@ -19,7 +20,7 @@
 **GitHub Repo Link:** [Project Repo](https://github.com/AayushPaigwar/Task-2-Dart-Flutter-Chowk-)
 
 ```
- PS: Please wait for 2-3 min if the GitHub Repos returns a exception and then try again.
+ PS: Please wait for 2-3 min if the GitHub Repos returns an exception and then try again.
  And code organizing will be updated soon
 ```
 
@@ -30,7 +31,7 @@ Follow the steps below to clone, install dependencies, and run the Flutter app:
 
 1. Clone the repository
 ```bash 
-git clone https://github.com/AayushPaigwar/Task-1-Dart-Flutter-Chowk/
+git clone https://github.com/AayushPaigwar/Flutter-Portfolio-App/
 ```
 
 2. Change directory to the project folder
